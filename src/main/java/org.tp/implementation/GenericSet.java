@@ -3,6 +3,7 @@ package main.java.org.tp.implementation;
 import main.java.org.tp.definition.GSet;
 import java.util.Random;
 
+// @Matias Aleksandrowicz
 public class GenericSet<T> implements GSet<T> {
     private static final int MAX = 10000;
 

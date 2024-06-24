@@ -2,6 +2,7 @@ package main.java.org.tp.implementation;
 
 import main.java.org.tp.definition.GPriorityQueue;
 
+// @Matias Aleksandrowicz
 public class GenericPriorityQueue<T> implements GPriorityQueue<T> {
 
     private static final int LENGTH = 10000;

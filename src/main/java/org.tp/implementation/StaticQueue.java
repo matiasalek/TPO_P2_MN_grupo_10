@@ -2,6 +2,7 @@ package main.java.org.tp.implementation;
 
 import main.java.org.tp.definition.Queue;
 
+// @Matias Aleksandrowicz
 public class StaticQueue implements Queue {
 
     private static final int MAX = 10000;

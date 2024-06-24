@@ -3,6 +3,7 @@ package main.java.org.tp.definition;
 /**
  * Precondicion: para usar cualquier de estos metodos la estructura debe estar inicializada.
  */
+// @Matias Aleksandrowicz
 public interface Set {
 
     /**

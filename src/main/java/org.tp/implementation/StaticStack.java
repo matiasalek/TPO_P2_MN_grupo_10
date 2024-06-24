@@ -3,6 +3,7 @@ package main.java.org.tp.implementation;
 import main.java.org.tp.definition.Stack;
 import main.java.org.tp.definition.Set;
 
+// @Matias Aleksandrowicz
 public class StaticStack implements Stack {
 
     private static final int MAX = 10000;

@@ -4,8 +4,8 @@ import main.java.org.tp.implementation.StaticStack;
 import main.java.org.tp.implementation.StaticSet;
 import main.java.org.tp.implementation.StaticQueue;
 
-
-public class Main {
+// @Matias Aleksandrowicz
+public class Punto4 {
     public static void main(String[] args) {
         StaticStack stack = new StaticStack.Builder()
                 .add(1)

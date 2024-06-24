@@ -4,6 +4,7 @@ import main.java.org.tp.definition.Set;
 
 import java.util.Random;
 
+// @Matias Aleksandrowicz
 public class StaticSet implements Set {
 
     private static final int MAX = 10000;

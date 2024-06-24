@@ -2,6 +2,7 @@ package main.java.org.tp.implementation;
 
 import main.java.org.tp.definition.GQueue;
 
+// @Matias Aleksandrowicz
 public class GenericQueue<T> implements GQueue<T> {
     private static final int MAX = 10000;
     private final T[] array;

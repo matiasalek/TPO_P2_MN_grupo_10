@@ -2,6 +2,7 @@ package main.java.org.tp.implementation;
 
 import main.java.org.tp.definition.GStack;
 
+// @Matias Aleksandrowicz
 public class GenericStack<T> implements GStack<T> {
     private static final int MAX = 10000;
 

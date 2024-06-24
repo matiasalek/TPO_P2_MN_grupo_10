@@ -4,8 +4,9 @@ import main.java.org.tp.definition.Set;
 import main.java.org.tp.implementation.StaticStack;
 import main.java.org.tp.implementation.StaticSet;
 
-public class Main2 {
 
+// @Matias Saffirio
+public class Punto5 {
     public static void main(String[] args) {
         //Ejercicio 5
         //Dada una pila de elementos desordenados, generar una nueva pila sin elementos repetidos y ordenados
