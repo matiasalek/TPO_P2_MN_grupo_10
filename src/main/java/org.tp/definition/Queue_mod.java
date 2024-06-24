@@ -1,17 +1,15 @@
 package main.java.org.tp.definition;
 
-/**
- * Precondicion: para usar cualquier de estos metodos la estructura debe estar inicializada.
- */
-// @Matias Aleksandrowicz
-public interface Queue {
+import main.java.org.tp.implementation.StaticQueue;
 
+// @Matias Saffirio
+public interface Queue_mod {
     /**
      * Postcondicion: Acola (coloca en el final de la cola) un valor.
      *
      * @param a valor a acolar.
      */
-    void add(int a);
+    void add(StaticQueue a);
 
     /**
      * Precondicion: La cola no esta vacia.
@@ -27,6 +25,5 @@ public interface Queue {
     /**
      * @return Devuelve el primero.
      */
-    int getFirst();
-
+    Queue getFirst();
 }
